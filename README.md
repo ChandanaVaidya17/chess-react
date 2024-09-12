@@ -31,3 +31,9 @@ To get started with this project, follow these steps:
    npm install
    npm start
 
+
+
+Here is a screenshot of the Chess Game application:
+
+![Chess Game Screenshot](https://github.com/ChandanaVaidya17/chess-react/blob/main/Chess-JS.jpg)
+
