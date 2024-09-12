@@ -1,7 +1,3 @@
-# chess-react
-Chess playing Web using react js
-
-
 # Chess Game
 
 A simple chess game web application built with React.js and chess.js.
@@ -26,6 +22,12 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/chess-game.git
+   git clone https://github.com/ChandanaVaidya17/chess-react.git
    cd chess-game
+
+2. **Install and Run:**
+
+   ```bash
+   npm install
+   npm start
 
