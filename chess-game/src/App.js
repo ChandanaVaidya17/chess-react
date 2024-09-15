@@ -1,5 +1,3 @@
-// App.js
-
 import '../styles/App.css';
 import { useState, useEffect } from 'react';
 import { Chessboard } from 'react-chessboard';
