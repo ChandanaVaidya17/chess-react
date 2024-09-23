@@ -4,7 +4,7 @@ A simple chess game web application built with React.js and chess.js.
 
 ## Features
 
-- Play chess against an AI or another player.
+- Play chess against a another player.
 - Visualize the chessboard and game state.
 - Use standard chess rules and movements.
 
