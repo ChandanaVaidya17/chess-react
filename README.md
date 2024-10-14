@@ -1,5 +1,4 @@
 # Chess Game
-
 A simple chess game web application built with React.js and chess.js.
 
 ## Features
